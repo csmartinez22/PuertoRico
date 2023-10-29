@@ -1,2 +1,2 @@
 # Puerto Rico
-Attempting to create a dataset that can be used to train a model to predict which parts of Puerto Rico are most at risk of gentrification.
+Compiled 2021 U.S. census data to train a semi-supervised algorithm to classify which municipalities in Puerto Rico are at risk of gentrification. If you'd like to learn more about my project, I wrote an informal write-up at <https://csmartinez22.github.io> under the projects section.
